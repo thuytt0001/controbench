@@ -2,7 +2,7 @@
 
 Official code repository for **ControBench: An Interaction-Aware Benchmark for Controversial Discourse Analysis on Social Networks** (IEEE ICDM 2026).
 
-ControBench is a benchmark for controversial discourse analysis built from Reddit discussions on three topics — Trump, abortion, and religion. It represents conversations as a heterogeneous graph with user and post nodes and three edge types (publish, comment-on-post, comment-on-user), where user-comment-user edges carry dual semantic features encoding both a reply and the parent comment it responds to. This repository contains the full data-construction pipeline and the evaluation code for all model families reported in the paper (GNNs, PLMs, LLMs, and baselines).
+ControBench is a benchmark for controversial discourse analysis built from Reddit discussions on three topics: Trump, abortion, and religion. It represents conversations as a heterogeneous graph with user and post nodes and three edge types (publish, comment-on-post, comment-on-user), where user-comment-user edges carry dual semantic features encoding both a reply and the parent comment it responds to. This repository contains the full data-construction pipeline and the evaluation code for all model families reported in the paper (GNNs, PLMs, LLMs, and baselines).
 
 ---
 
