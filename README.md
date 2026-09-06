@@ -130,7 +130,7 @@ If you use ControBench in your research, please cite:
 ```bibtex
 @inproceedings{controbench2026,
   title     = {ControBench: An Interaction-Aware Benchmark for Controversial Discourse Analysis on Social Networks},
-  author    = {Ta, Thanh Thuy and Zhu, Jiaqi and Liu, Xuan and Shang, Lin and Rabbany, Reihaneh and Rabusseau, Guillaume and Chen, Lihui and Zheng, Yilun and Luan, Sitao},
+  author    = {Ta, Thanh Thuy and Zhu, Jiaqi and Liu, Xuan and Lin, Shang and Rabbany, Reihaneh and Rabusseau, Guillaume and Chen, Lihui and Zheng, Yilun and Luan, Sitao},
   booktitle = {IEEE International Conference on Data Mining (ICDM)},
   year      = {2026}
 }
